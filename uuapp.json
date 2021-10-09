@@ -1,0 +1,24 @@
+{
+  "product": "ShopLib",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "docUri": "",
+  "flsUri": "",
+  "imageUri": "",
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null,
+      "resourcePoolUri": "----- VALUE REQUIRED -----"
+    }
+  },
+  "ShopLib": {
+    "namespace": "ShopLib",
+    "sourceUri": "https://cdn.plus4u.net/ShopLib-ShopLib/%s/ShopLib.min.js",
+    "componentList": []
+  }
+}
