@@ -1,4 +1,7 @@
 import UU5 from "uu5g04";
+import * as Bricks from "./bricks/bricks.js";
+export { Bricks };
+export default { Bricks };
 
 if (process.env.NODE_ENV !== "test") {
   console.log(
