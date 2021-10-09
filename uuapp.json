@@ -34,6 +34,36 @@
         "imageUri": "",
         "uuEccReady": false,
         "template": "<ShopLib.Bricks.ProductList />"
+      },
+      {
+        "code": "ShopLib.Bricks.ProductTile",
+        "name": "ProductTile",
+        "tagList": [
+          "ShopLib",
+          "Bricks",
+          "ProductTile"
+        ],
+        "docCode": "ShopLibBricksProductTile",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<ShopLib.Bricks.ProductTile />"
+      },
+      {
+        "code": "ShopLib.Bricks.ProductModal",
+        "name": "ProductModal",
+        "tagList": [
+          "ShopLib",
+          "Bricks",
+          "ProductModal"
+        ],
+        "docCode": "ShopLibBricksProductModal",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<ShopLib.Bricks.ProductModal />"
       }
     ]
   }
